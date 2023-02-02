@@ -1,6 +1,6 @@
 # Trail-Seeker-with-Blinks
 
-# **Project 3 - Trail Seeker**
+# **Trail Seeker**
 
 Principle: Predator Prey Model
 
