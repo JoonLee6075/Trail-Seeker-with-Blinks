@@ -9,6 +9,8 @@ Principle: Predator Prey Model
 - Time to play: ≥ 5 minutes
 
 ### **Description**
+<img width="452" alt="Screen_Shot_2021-04-26_at_5 01 26_PM" src="https://user-images.githubusercontent.com/79310685/216213751-92bf864f-d7bd-4361-a072-a7dc0cf4e16b.png">
+<img width="419" alt="Screen_Shot_2021-05-07_at_12 43 42_AM" src="https://user-images.githubusercontent.com/79310685/216213755-abfa2d51-2963-4288-9a24-b0449295142c.png">
 
 Bring as many blinks as you can (at least 12) and a friend to play trail seeker, a fun strategy game where the predator's goal is to try to catch the prey in as few turns as possible.
 
